@@ -4,14 +4,16 @@
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
-`Xº semestre/ANO`
+`1°/2025`
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O objetivo deste projeto é desenvolver uma plataforma digital para a nossa consultoria especializada em compliance, oferecendo soluções que auxiliam 
+empresas nas adequações as normas e regulamentos vigentes, a plataforma servirá como um canal de suporte estratégico, permitindo que organizações 
+identifiquem riscos, implementem soluções e boas praticas de governança e garantem a conformidade com legislações nacionais e internacionais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Saymon Augusto Passos Neiva
+* Samuel Elias Alves Quirino
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
@@ -19,7 +21,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Professor
 
-* Nome completo do(a) professor(a)
+* Amália Soares Vieira de Vasconcelos
 
 ## Instruções de utilização
 
