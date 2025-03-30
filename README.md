@@ -20,7 +20,7 @@ aderir e fortalecer sua governança corporativa.
 
 * Saymon Augusto Passos Neiva
 * Gabriel Soares Cardoso Paiva
-* Samuel Eliar Alves Quirino 
+* Samuel Elias Alves Quirino 
 * Guilherme Emanoel Guimaraes
 
 ## Professor
